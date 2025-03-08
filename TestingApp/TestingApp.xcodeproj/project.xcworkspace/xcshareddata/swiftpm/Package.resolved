@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "superkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JonnyGamer/SuperKit",
+      "state" : {
+        "revision" : "78753f76995204a3ec48aea3e6f65022491e0895",
+        "version" : "0.0.51"
+      }
+    },
+    {
+      "identity" : "swift-algorithms",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-algorithms",
+      "state" : {
+        "revision" : "87e50f483c54e6efd60e885f7f5aa946cee68023",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics.git",
+      "state" : {
+        "revision" : "e0ec0f5f3af6f3e4d5e7a19d2af26b481acb6ba8",
+        "version" : "1.0.3"
+      }
+    }
+  ],
+  "version" : 2
+}
